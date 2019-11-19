@@ -1,2 +1,4 @@
 # CV_Mini_Projects
-some random projects on Computer Vision
+> OCR
+### USE THE teressract next step->
+### train own 
